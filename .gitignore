@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Backups and temporary files
+backups/
+*.bak
+*.tmp
+
+# Hevy import logs (may still be changing)
+exports/import_progress.csv
+exports/import_errors.csv
+
+# Secrets
+.env
+.env.*
+*secret*
+*token*
+*api_key*
+*apikey*
+
+# OS
+.DS_Store
+Thumbs.db

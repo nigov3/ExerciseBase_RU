@@ -1,0 +1,194 @@
+﻿name_en,name_ru,translation_status,exercise_type,equipment_category,muscle_group,gif
+barbell bench press,Жим штанги лёжа,DICT,weight_reps,barbell,chest,gifs/0025-EIeI8Vf.gif
+barbell bent over row,Тяга в наклоне со штангой,RULE,weight_reps,barbell,upper_back,gifs/0027-eZyBC3j.gif
+barbell close-grip bench press,Жим лёжа со штангой (узким хватом),RULE,weight_reps,barbell,triceps,gifs/0030-J6Dx1Mu.gif
+barbell curl,Подъём штанги на бицепс,DICT,duration,barbell,biceps,gifs/0031-25GPyDY.gif
+barbell deadlift,Становая тяга со штангой,DICT,weight_reps,barbell,glutes,gifs/0032-ila4NZS.gif
+barbell decline bench press,Жим лёжа со штангой (на скамье с отрицательным наклоном),RULE,weight_reps,barbell,chest,gifs/0033-GrO65fd.gif
+barbell front raise,Подъём рук перед собой со штангой,RULE,duration,barbell,shoulders,gifs/0041-b2Uoz54.gif
+barbell front squat,Фронтальный присед со штангой,DICT,duration,barbell,glutes,gifs/0042-zG0zs85.gif
+barbell glute bridge,Ягодичный мост со штангой,RULE,duration,barbell,glutes,gifs/1409-qKBpF7I.gif
+barbell good morning,Наклон со штангой на плечах со штангой,RULE,weight_reps,barbell,hamstrings,gifs/0044-XlZ4lAC.gif
+barbell incline bench press,Жим лёжа со штангой (на наклонной скамье),RULE,weight_reps,barbell,chest,gifs/0047-3TZduzM.gif
+barbell incline close grip bench press,"Жим лёжа со штангой (узким хватом, на наклонной скамье)",RULE,weight_reps,barbell,triceps,gifs/1719-gx7s7uF.gif
+barbell lunge,Выпад со штангой,RULE,weight_reps,barbell,glutes,gifs/0054-t8iSghb.gif
+barbell lying close-grip press,Жим узким хватом со штангой (лёжа),RULE,weight_reps,barbell,triceps,gifs/0055-EcaV7aL.gif
+barbell lying close-grip triceps extension,"Разгибание рук на трицепс со штангой (узким хватом, лёжа)",RULE,weight_reps,barbell,triceps,gifs/0056-HJ63mSO.gif
+barbell lying preacher curl,Сгибание рук на скамье Скотта со штангой (лёжа),RULE,duration,barbell,biceps,gifs/0059-SYJ4Bkt.gif
+barbell lying triceps extension,Разгибание рук на трицепс со штангой (лёжа),RULE,duration,barbell,triceps,gifs/0061-iZop9xO.gif
+barbell one arm bent over row,Тяга в наклоне со штангой (одной рукой),RULE,duration,barbell,upper_back,gifs/0064-Jsgsc27.gif
+barbell one arm floor press,Жим с пола со штангой (одной рукой),RULE,duration,barbell,triceps,gifs/0065-vtusOWT.gif
+barbell preacher curl,Сгибание рук на скамье Скотта со штангой,RULE,weight_reps,barbell,biceps,gifs/0070-qOgPVf6.gif
+barbell rear delt raise,Разведение на заднюю дельту со штангой,RULE,duration,barbell,shoulders,gifs/0075-Ln9iTbU.gif
+barbell reverse curl,Обратное сгибание рук со штангой,RULE,duration,barbell,biceps,gifs/0080-xNrS20v.gif
+barbell reverse grip bent over row,Тяга в наклоне со штангой (обратным хватом),RULE,duration,barbell,upper_back,gifs/0118-SzX3uzM.gif
+barbell reverse grip decline bench press,"Жим лёжа со штангой (обратным хватом, на скамье с отрицательным наклоном)",RULE,weight_reps,barbell,chest,gifs/1256-DotAgEF.gif
+barbell reverse grip incline bench press,"Жим лёжа со штангой (обратным хватом, на наклонной скамье)",RULE,weight_reps,barbell,chest,gifs/1257-DU7I633.gif
+barbell romanian deadlift,Румынская тяга со штангой,DICT,duration,barbell,glutes,gifs/0085-wQ2c4XD.gif
+barbell seated calf raise,Подъём на носки сидя со штангой,RULE,weight_reps,barbell,calves,gifs/0088-ktsFQAZ.gif
+barbell seated close-grip concentration curl,"Концентрированное сгибание руки со штангой (узким хватом, сидя)",RULE,duration,barbell,biceps,gifs/0089-1V1gj1u.gif
+barbell seated good morning,Наклон со штангой на плечах со штангой (сидя),RULE,weight_reps,barbell,glutes,gifs/0090-d960PgE.gif
+barbell seated overhead press,Жим над головой со штангой (сидя),RULE,duration,barbell,shoulders,gifs/0091-kTbSH9h.gif
+barbell shrug,Шраг со штангой,RULE,duration,barbell,traps,gifs/0095-dG7tG5y.gif
+barbell squat (on knees),Приседание со штангой,RULE,weight_reps,barbell,quadriceps,gifs/0102-oR7O9LW.gif
+barbell standing calf raise,Подъём на носки стоя со штангой,RULE,weight_reps,barbell,calves,gifs/1372-8ozhUIZ.gif
+barbell standing concentration curl,Концентрированное сгибание руки со штангой (стоя),RULE,duration,barbell,biceps,gifs/2414-vsMcDi9.gif
+barbell straight leg deadlift,Становая тяга на прямых ногах со штангой,RULE,duration,barbell,hamstrings,gifs/0116-hrVQWvE.gif
+barbell sumo deadlift,Становая тяга сумо со штангой,RULE,weight_reps,barbell,glutes,gifs/0117-KgI0tqW.gif
+barbell upright row,Тяга к подбородку со штангой,RULE,duration,barbell,shoulders,gifs/0120-UDlhcO8.gif
+barbell wide-grip upright row,Тяга к подбородку со штангой (широким хватом),RULE,duration,barbell,shoulders,gifs/0123-RgJDRR1.gif
+barbell wrist curl,Сгибание кистей со штангой,RULE,duration,barbell,forearms,gifs/0126-82LxxkW.gif
+cable bench press,Жим лёжа на блоке,RULE,weight_reps,machine,chest,gifs/0151-7xI5MXA.gif
+cable concentration curl,Концентрированное сгибание руки на блоке,RULE,duration,machine,biceps,gifs/1631-NvfE43H.gif
+cable curl,Сгибание рук на нижнем блоке,DICT,weight_reps,machine,biceps,gifs/0868-G08RZcQ.gif
+cable deadlift,Становая тяга на блоке,RULE,weight_reps,machine,glutes,gifs/0157-eGDudUV.gif
+cable decline fly,Разведение рук на блоке (на скамье с отрицательным наклоном),RULE,duration,machine,chest,gifs/0158-7saC5zz.gif
+cable decline press,Жим на скамье с отрицательным наклоном на блоке,RULE,weight_reps,machine,chest,gifs/1261-2Pya1cP.gif
+cable front raise,Подъём рук перед собой на блоке,RULE,weight_reps,machine,shoulders,gifs/0162-u2X71Np.gif
+cable hammer curl (with rope),Молотковые сгибания на блоке,RULE,duration,machine,biceps,gifs/0165-HPlPoQA.gif
+cable hip adduction,Приведение бедра на блоке,RULE,weight_reps,machine,other,gifs/0168-hBGWILP.gif
+cable incline bench press,Жим лёжа на блоке (на наклонной скамье),RULE,weight_reps,machine,chest,gifs/0169-Vh0GsK4.gif
+cable incline fly,Разведение рук на блоке (на наклонной скамье),RULE,weight_reps,machine,chest,gifs/0171-tBWXbIT.gif
+cable incline fly (on stability ball),Разведение рук на блоке (на наклонной скамье),RULE,weight_reps,machine,chest,gifs/0170-27NNGFr.gif
+cable incline triceps extension,Разгибание рук на трицепс на блоке (на наклонной скамье),RULE,weight_reps,machine,triceps,gifs/0173-Hx1WC8I.gif
+cable lateral raise,Махи рукой в сторону на блоке,DICT,weight_reps,machine,shoulders,gifs/0178-goJ6ezq.gif
+cable lying bicep curl,Сгибание рук на бицепс на блоке (лёжа),RULE,weight_reps,machine,biceps,gifs/1634-otqIxU4.gif
+cable lying fly,Разведение рук на блоке (лёжа),RULE,duration,machine,chest,gifs/0185-lJJ7Yq8.gif
+cable one arm bent over row,Тяга в наклоне на блоке (одной рукой),RULE,weight_reps,machine,upper_back,gifs/0189-EIsE3u8.gif
+cable one arm decline chest fly,"Разведение рук на грудь на блоке (на скамье с отрицательным наклоном, одной рукой)",RULE,weight_reps,machine,chest,gifs/1262-w4dLzSx.gif
+cable one arm incline press,Жим на наклонной скамье на блоке (одной рукой),RULE,weight_reps,machine,chest,gifs/1265-GKEH6jj.gif
+cable one arm lateral raise,Подъём рук в стороны на блоке (одной рукой),RULE,duration,machine,shoulders,gifs/0192-wEulIzp.gif
+cable one arm preacher curl,Сгибание рук на скамье Скотта на блоке (одной рукой),RULE,weight_reps,machine,biceps,gifs/1633-eHBlPsa.gif
+cable one arm pulldown,Тяга верхнего блока на блоке (одной рукой),RULE,weight_reps,machine,lats,gifs/3563-U5INZY6.gif
+cable preacher curl,Сгибание рук на скамье Скотта на блоке,RULE,weight_reps,machine,biceps,gifs/0195-P2lNrGL.gif
+cable pulldown,Тяга верхнего блока на блоке,RULE,weight_reps,machine,lats,gifs/0198-RVwzP10.gif
+cable pulldown (pro lat bar),Тяга верхнего блока на блоке,RULE,weight_reps,machine,lats,gifs/0197-qdRxqCj.gif
+cable pushdown,Разгибание рук на верхнем блоке,DICT,weight_reps,machine,triceps,gifs/0201-3ZflifB.gif
+cable reverse curl,Обратное сгибание рук на блоке,RULE,weight_reps,machine,biceps,gifs/0206-eOG0r6v.gif
+cable reverse grip triceps pushdown (sz-bar) (with arm blaster),Разгибание рук на трицепс на блоке (обратным хватом),RULE,weight_reps,machine,triceps,gifs/2406-ThKP69G.gif
+cable seated chest press,Жим от груди на блоке (сидя),RULE,weight_reps,machine,chest,gifs/2144-nIR4Rwl.gif
+cable seated crunch,Скручивание на пресс на блоке (сидя),RULE,duration,machine,abdominals,gifs/0212-8xUv4J7.gif
+cable seated one arm concentration curl,"Концентрированное сгибание руки на блоке (одной рукой, сидя)",RULE,duration,machine,biceps,gifs/1642-rZ80Gbp.gif
+cable seated row,Горизонтальная тяга сидя на блоке,RULE,weight_reps,machine,upper_back,gifs/0861-fUBheHs.gif
+cable shoulder press,Жим вверх на блоке,RULE,weight_reps,machine,shoulders,gifs/0219-PzQanLE.gif
+cable shrug,Шраг на блоке,RULE,weight_reps,machine,traps,gifs/0220-Eg98Ft9.gif
+cable standing calf raise,Подъём на носки стоя на блоке,RULE,duration,machine,calves,gifs/1375-yl2IYyy.gif
+cable standing crunch,Скручивание на пресс на блоке (стоя),RULE,duration,machine,abdominals,gifs/0226-jpgqxiS.gif
+cable standing crunch (with rope attachment),Скручивание на пресс на блоке (стоя),RULE,duration,machine,abdominals,gifs/0874-XU3ePuv.gif
+cable standing fly,Разведение рук на блоке (стоя),RULE,weight_reps,machine,chest,gifs/0227-Pr9Rhf4.gif
+cable standing one arm triceps extension,"Разгибание рук на трицепс на блоке (стоя, одной рукой)",RULE,duration,machine,triceps,gifs/0231-sYCcnon.gif
+cable standing pulldown (with rope),Тяга верхнего блока на блоке (стоя),RULE,weight_reps,machine,biceps,gifs/0232-CvPn9WV.gif
+cable triceps pushdown (v-bar),Разгибание рук на трицепс на блоке,RULE,weight_reps,machine,triceps,gifs/0241-gAwDzB3.gif
+cable triceps pushdown (v-bar) (with arm blaster),Разгибание рук на трицепс на блоке,RULE,weight_reps,machine,triceps,gifs/2405-OxJk1fg.gif
+cable underhand pulldown,Тяга верхнего блока на блоке (обратным хватом),RULE,weight_reps,machine,lats,gifs/0245-xBYcQHj.gif
+cable upright row,Тяга к подбородку на блоке,RULE,duration,machine,shoulders,gifs/0246-cALKspW.gif
+cable wrist curl,Сгибание кистей на блоке,RULE,weight_reps,machine,forearms,gifs/0247-LrV4s90.gif
+close grip chin-up,Подтягивание обратным хватом (узким хватом),RULE,bodyweight_reps,none,lats,gifs/1327-VnfUNW7.gif
+close-grip push-up,Отжимание (узким хватом),RULE,duration,none,triceps,gifs/0259-x6KpKpq.gif
+close-grip push-up (on knees),Отжимание (узким хватом),RULE,bodyweight_reps,none,triceps,gifs/2398-v3vLFW0.gif
+crunch (hands overhead),Скручивание на пресс,RULE,bodyweight_reps,none,abdominals,gifs/0267-kjJ3VoQ.gif
+crunch (on stability ball),Скручивание на пресс,RULE,weight_reps,other,abdominals,gifs/0271-MCUhf1F.gif
+"crunch (on stability ball, arms straight)",Скручивание на пресс,RULE,weight_reps,other,abdominals,gifs/0272-Sn8wxAI.gif
+decline sit-up,Подъём туловища (на скамье с отрицательным наклоном),RULE,bodyweight_reps,none,abdominals,gifs/0282-QLL2gdc.gif
+dumbbell bench press,Жим гантелей лёжа,DICT,duration,dumbbell,chest,gifs/0289-SpYC0Kp.gif
+dumbbell bent over row,Тяга в наклоне с гантелями,RULE,duration,dumbbell,upper_back,gifs/0293-BJ0Hz5L.gif
+dumbbell burpee,Берпи с гантелями,RULE,weight_reps,dumbbell,other,gifs/1201-0JtKWum.gif
+dumbbell close grip press,Жим узким хватом с гантелями,RULE,duration,dumbbell,triceps,gifs/1731-7jGOBF3.gif
+dumbbell concentration curl,Концентрированное сгибание руки с гантелями,RULE,duration,dumbbell,biceps,gifs/0297-gvsWLQw.gif
+dumbbell deadlift,Становая тяга с гантелями,RULE,duration,dumbbell,glutes,gifs/0300-nUwVh7b.gif
+dumbbell decline bench press,Жим лёжа с гантелями (на скамье с отрицательным наклоном),RULE,duration,dumbbell,chest,gifs/0301-DwhEmmE.gif
+dumbbell decline fly,Разведение рук с гантелями (на скамье с отрицательным наклоном),RULE,duration,dumbbell,chest,gifs/0302-xXm4nYq.gif
+dumbbell decline one arm fly,"Разведение рук с гантелями (на скамье с отрицательным наклоном, одной рукой)",RULE,weight_reps,dumbbell,chest,gifs/1276-NL6YBwN.gif
+dumbbell decline shrug,Шраг с гантелями (на скамье с отрицательным наклоном),RULE,duration,dumbbell,traps,gifs/0305-cwsAI4G.gif
+dumbbell decline triceps extension,Разгибание рук на трицепс с гантелями (на скамье с отрицательным наклоном),RULE,duration,dumbbell,triceps,gifs/0306-OTgkHwR.gif
+dumbbell fly,Разведение гантелей,DICT,weight_reps,dumbbell,chest,gifs/0308-yz9nUhF.gif
+dumbbell front raise,Подъём рук перед собой с гантелями,RULE,duration,dumbbell,shoulders,gifs/0310-3eGE2JC.gif
+dumbbell goblet squat,Приседание с гирей у груди с гантелями,RULE,duration,dumbbell,quadriceps,gifs/1760-yn8yg1r.gif
+dumbbell hammer curl,Молотковые сгибания рук с гантелями,DICT,weight_reps,dumbbell,biceps,gifs/0313-slDvUAU.gif
+dumbbell incline bench press,Жим лёжа с гантелями (на наклонной скамье),RULE,duration,dumbbell,chest,gifs/0314-ns0SIbU.gif
+dumbbell incline fly,Разведение рук с гантелями (на наклонной скамье),RULE,weight_reps,dumbbell,chest,gifs/0319-ESOd5Pl.gif
+dumbbell incline hammer curl,Молотковые сгибания с гантелями (на наклонной скамье),RULE,weight_reps,dumbbell,biceps,gifs/0320-ByX0WxV.gif
+dumbbell incline one arm fly,"Разведение рук с гантелями (на наклонной скамье, одной рукой)",RULE,duration,dumbbell,chest,gifs/1279-Gw2HFvW.gif
+dumbbell incline one arm lateral raise,"Подъём рук в стороны с гантелями (на наклонной скамье, одной рукой)",RULE,weight_reps,dumbbell,shoulders,gifs/0323-aTNKZiC.gif
+dumbbell incline shrug,Шраг с гантелями (на наклонной скамье),RULE,weight_reps,dumbbell,traps,gifs/0329-JymLInS.gif
+dumbbell incline triceps extension,Разгибание рук на трицепс с гантелями (на наклонной скамье),RULE,weight_reps,dumbbell,triceps,gifs/0330-OVIKwsd.gif
+dumbbell lateral raise,Махи гантелями в стороны,DICT,duration,dumbbell,shoulders,gifs/0334-DsgkuIt.gif
+dumbbell lunge,Выпад с гантелями,RULE,duration,dumbbell,glutes,gifs/0336-RRWFUcw.gif
+dumbbell lying triceps extension,Разгибание рук на трицепс с гантелями (лёжа),RULE,weight_reps,dumbbell,triceps,gifs/0351-mpKZGWz.gif
+dumbbell neutral grip bench press,Жим лёжа с гантелями (нейтральным хватом),RULE,duration,dumbbell,triceps,gifs/0352-pP8wP2P.gif
+dumbbell one arm bent-over row,Тяга в наклоне с гантелями (одной рукой),RULE,duration,dumbbell,upper_back,gifs/0292-C0MA9bC.gif
+dumbbell one arm concentration curl (on stability ball),Концентрированное сгибание руки с гантелями (одной рукой),RULE,duration,dumbbell,biceps,gifs/0353-k5IpyHg.gif
+dumbbell one arm decline chest press,"Жим от груди с гантелями (на скамье с отрицательным наклоном, одной рукой)",RULE,weight_reps,dumbbell,chest,gifs/1287-REGM1dE.gif
+dumbbell one arm incline chest press,"Жим от груди с гантелями (на наклонной скамье, одной рукой)",RULE,duration,dumbbell,chest,gifs/1289-PDaMuyV.gif
+dumbbell one arm lateral raise,Подъём рук в стороны с гантелями (одной рукой),RULE,duration,dumbbell,shoulders,gifs/0355-n5cWCsI.gif
+dumbbell one arm reverse fly (with support),Обратные разведения с гантелями (одной рукой),RULE,duration,dumbbell,shoulders,gifs/0359-e25F58f.gif
+dumbbell one arm seated hammer curl,"Молотковые сгибания с гантелями (одной рукой, сидя)",RULE,duration,dumbbell,biceps,gifs/1669-jK2hZ6n.gif
+dumbbell one arm shoulder press,Жим вверх с гантелями (одной рукой),RULE,duration,dumbbell,shoulders,gifs/0361-84RyJf8.gif
+dumbbell one arm standing hammer curl,"Молотковые сгибания с гантелями (стоя, одной рукой)",RULE,weight_reps,dumbbell,biceps,gifs/1671-2sQGZ5b.gif
+dumbbell one arm triceps extension (on bench),Разгибание рук на трицепс с гантелями (одной рукой),RULE,duration,dumbbell,triceps,gifs/0362-nAuHPcD.gif
+dumbbell one arm upright row,Тяга к подбородку с гантелями (одной рукой),RULE,duration,dumbbell,shoulders,gifs/0363-6cKQC5E.gif
+dumbbell one arm wrist curl,Сгибание кистей с гантелями (одной рукой),RULE,duration,dumbbell,forearms,gifs/0364-q8aHNoF.gif
+dumbbell preacher curl,Сгибание рук на скамье Скотта с гантелями,RULE,duration,dumbbell,biceps,gifs/0372-jivWf8n.gif
+dumbbell pullover,Пуловер с гантелью,DICT,duration,dumbbell,chest,gifs/0375-9XjtHvS.gif
+dumbbell rear delt raise,Разведение на заднюю дельту с гантелями,RULE,duration,dumbbell,shoulders,gifs/2292-mu5Guxt.gif
+dumbbell reverse fly,Обратные разведения с гантелями,RULE,duration,dumbbell,shoulders,gifs/0383-EAs3xL9.gif
+dumbbell romanian deadlift,Румынская тяга с гантелями,DICT,duration,dumbbell,glutes,gifs/1459-rR0LJzx.gif
+dumbbell seated bent over triceps extension,"Разгибание рук на трицепс с гантелями (в наклоне, сидя)",RULE,duration,dumbbell,triceps,gifs/1737-4ievMJ9.gif
+dumbbell seated bicep curl,Сгибание рук на бицепс с гантелями (сидя),RULE,duration,dumbbell,biceps,gifs/1677-xiA6lRr.gif
+dumbbell seated calf raise,Подъём на носки сидя с гантелями,RULE,weight_reps,dumbbell,calves,gifs/1379-r29jP7S.gif
+dumbbell seated front raise,Подъём рук перед собой с гантелями (сидя),RULE,weight_reps,dumbbell,shoulders,gifs/0392-Ys97II0.gif
+dumbbell seated hammer curl,Молотковые сгибания с гантелями (сидя),RULE,weight_reps,dumbbell,biceps,gifs/1678-IGtBdNT.gif
+dumbbell seated lateral raise,Подъём рук в стороны с гантелями (сидя),RULE,weight_reps,dumbbell,shoulders,gifs/0396-hxyTtWj.gif
+dumbbell seated preacher curl,Сгибание рук на скамье Скотта с гантелями (сидя),RULE,duration,dumbbell,biceps,gifs/0402-7D5bgLT.gif
+dumbbell seated shoulder press,Жим вверх с гантелями (сидя),RULE,weight_reps,dumbbell,shoulders,gifs/0405-znQUdHY.gif
+dumbbell seated shoulder press (parallel grip),Жим вверх с гантелями (сидя),RULE,weight_reps,dumbbell,shoulders,gifs/0404-f1jf47L.gif
+dumbbell seated triceps extension,Разгибание рук на трицепс с гантелями (сидя),RULE,duration,dumbbell,triceps,gifs/2188-kont8Ut.gif
+dumbbell shrug,Шраги с гантелями,DICT,duration,dumbbell,traps,gifs/0406-NJzBsGJ.gif
+dumbbell squat,Приседание с гантелями,RULE,duration,dumbbell,glutes,gifs/0413-HsvHqgf.gif
+dumbbell standing bent over one arm triceps extension,"Разгибание рук на трицепс с гантелями (в наклоне, стоя, одной рукой)",RULE,duration,dumbbell,triceps,gifs/1740-CJwa0vD.gif
+dumbbell standing calf raise,Подъём на носки стоя с гантелями,RULE,duration,dumbbell,calves,gifs/0417-dPmaUaU.gif
+dumbbell standing concentration curl,Концентрированное сгибание руки с гантелями (стоя),RULE,duration,dumbbell,biceps,gifs/0418-7inpWch.gif
+dumbbell standing one arm concentration curl,"Концентрированное сгибание руки с гантелями (стоя, одной рукой)",RULE,duration,dumbbell,biceps,gifs/0421-8fgqP5a.gif
+dumbbell standing one arm reverse curl,"Обратное сгибание рук с гантелями (стоя, одной рукой)",RULE,duration,dumbbell,biceps,gifs/0425-DU5Kkj2.gif
+dumbbell standing overhead press,Жим над головой с гантелями (стоя),RULE,duration,dumbbell,shoulders,gifs/0426-A6wtbuL.gif
+dumbbell standing preacher curl,Сгибание рук на скамье Скотта с гантелями (стоя),RULE,duration,dumbbell,biceps,gifs/0428-hq2hyDH.gif
+dumbbell standing reverse curl,Обратное сгибание рук с гантелями (стоя),RULE,duration,dumbbell,biceps,gifs/0429-0IgNjSM.gif
+dumbbell standing triceps extension,Разгибание рук на трицепс с гантелями (стоя),RULE,duration,dumbbell,triceps,gifs/0430-PdmaD0N.gif
+dumbbell stiff leg deadlift,Становая тяга на прямых ногах с гантелями,RULE,duration,dumbbell,glutes,gifs/0432-5eLRITT.gif
+dumbbell straight leg deadlift,Становая тяга на прямых ногах с гантелями,RULE,duration,dumbbell,glutes,gifs/0434-oom75KC.gif
+dumbbell upright row,Тяга к подбородку с гантелями,RULE,duration,dumbbell,shoulders,gifs/0437-ainizkb.gif
+dumbbell upright row (back pov),Тяга к подбородку с гантелями,RULE,duration,dumbbell,shoulders,gifs/1765-Iptlv6x.gif
+ez bar reverse grip bent over row,Тяга в наклоне с EZ-грифом (обратным хватом),RULE,duration,barbell,upper_back,gifs/1344-G8dXpNG.gif
+ez bar seated close grip concentration curl,"Концентрированное сгибание руки с EZ-грифом (узким хватом, сидя)",RULE,duration,barbell,biceps,gifs/1682-Dsfz0Id.gif
+ez barbell close grip preacher curl,Сгибание рук на скамье Скотта с EZ-грифом (узким хватом),RULE,weight_reps,barbell,biceps,gifs/1627-hacCyUv.gif
+ez barbell decline triceps extension,Разгибание рук на трицепс с EZ-грифом (на скамье с отрицательным наклоном),RULE,duration,barbell,triceps,gifs/2186-CQHoDm0.gif
+ez barbell incline triceps extension,Разгибание рук на трицепс с EZ-грифом (на наклонной скамье),RULE,duration,barbell,triceps,gifs/0449-KyLtiLT.gif
+ez barbell reverse grip preacher curl,Сгибание рук на скамье Скотта с EZ-грифом (обратным хватом),RULE,weight_reps,barbell,biceps,gifs/0452-vBNyir7.gif
+ez barbell seated triceps extension,Разгибание рук на трицепс с EZ-грифом (сидя),RULE,duration,barbell,triceps,gifs/0453-iaapw0g.gif
+ez-bar close-grip bench press,Жим лёжа с EZ-грифом (узким хватом),RULE,weight_reps,barbell,triceps,gifs/2432-da4cXST.gif
+hyperextension,Гиперэкстензия,RULE,bodyweight_reps,none,other,gifs/0489-zhMwOwE.gif
+hyperextension (on bench),Гиперэкстензия,RULE,bodyweight_reps,none,other,gifs/0488-zkgRrbK.gif
+incline close-grip push-up,"Отжимание (узким хватом, на наклонной скамье)",RULE,bodyweight_reps,none,triceps,gifs/0490-1YB40kg.gif
+incline push-up,Отжимание (на наклонной скамье),RULE,bodyweight_reps,none,chest,gifs/0493-B1EVP9F.gif
+incline push-up (on box),Отжимание (на наклонной скамье),RULE,bodyweight_reps,none,chest,gifs/3785-F7vjXqT.gif
+incline reverse grip push-up,"Отжимание (обратным хватом, на наклонной скамье)",RULE,bodyweight_reps,none,chest,gifs/0494-XaaRnRn.gif
+kettlebell front squat,Фронтальное приседание с гирей,RULE,duration,kettlebell,glutes,gifs/0533-DB0n8AG.gif
+kettlebell one arm floor press,Жим с пола с гирей (одной рукой),RULE,duration,kettlebell,chest,gifs/1298-rg59QCH.gif
+one arm chin-up,Подтягивание обратным хватом (одной рукой),RULE,duration,none,lats,gifs/0638-HjdqmZa.gif
+one arm dip,Отжимание на брусьях (одной рукой),RULE,bodyweight_reps,none,triceps,gifs/0639-FAoIFMw.gif
+pull up (neutral grip),Подтягивание,RULE,bodyweight_reps,none,lats,gifs/0651-0V2YQjW.gif
+push-up (bosu ball),Отжимание,RULE,weight_reps,other,chest,gifs/0653-2kr2lWy.gif
+push-up (on stability ball),Отжимание,RULE,weight_reps,other,chest,gifs/0655-Y4BRNQF.gif
+push-up (wall),Отжимание,RULE,bodyweight_reps,none,chest,gifs/0659-LEH9jxP.gif
+resistance band leg extension,Разгибание ног с резиновой лентой,RULE,weight_reps,resistance_band,quadriceps,gifs/3007-Y1MsI1l.gif
+resistance band seated chest press,Жим от груди с резиновой лентой (сидя),RULE,duration,resistance_band,chest,gifs/3124-4x5Okof.gif
+resistance band seated hip abduction,Отведение бедра с резиновой лентой (сидя),RULE,weight_reps,resistance_band,other,gifs/3006-0xDpB4L.gif
+resistance band seated shoulder press,Жим вверх с резиновой лентой (сидя),RULE,duration,resistance_band,shoulders,gifs/3122-S93zLTG.gif
+reverse grip machine lat pulldown,Тяга верхнего блока в тренажёре (обратным хватом),RULE,weight_reps,machine,lats,gifs/0673-ecpY0rH.gif
+reverse grip pull-up,Подтягивание (обратным хватом),RULE,bodyweight_reps,none,lats,gifs/0674-YAk5dIw.gif
+seated leg raise,Подъём ног (сидя),RULE,bodyweight_reps,none,abdominals,gifs/0689-Hgs6Nl1.gif
+single arm push-up,Отжимание (одной рукой),RULE,bodyweight_reps,none,chest,gifs/0725-MUic5zN.gif
+smith machine bicep curl,Сгибание рук на бицепс в машине Смита,RULE,weight_reps,machine,biceps,gifs/1683-zILLZ98.gif
+smith machine decline close grip bench press,"Жим лёжа в машине Смита (узким хватом, на скамье с отрицательным наклоном)",RULE,weight_reps,machine,triceps,gifs/1625-yB9SvIF.gif
+standing calf raise (on a staircase),Подъём на носки стоя,RULE,duration,none,calves,gifs/1490-6HmFgmx.gif
+wide grip pull-up,Подтягивания широким хватом,DICT,bodyweight_reps,none,lats,gifs/1429-Qqi7bko.gif
